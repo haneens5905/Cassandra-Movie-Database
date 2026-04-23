@@ -1,5 +1,14 @@
 # Cassandra Movie Database
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Apache_Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" alt="Apache Cassandra" />
+  <img src="https://img.shields.io/badge/Astra_DB-0A66C2?style=for-the-badge&logo=datastax&logoColor=white" alt="Astra DB" />
+  <img src="https://img.shields.io/badge/CQL-Query_Language-4B5563?style=for-the-badge" alt="CQL" />
+  <img src="https://img.shields.io/badge/BLOB-Image_Storage-2E8B57?style=for-the-badge" alt="BLOB" />
+  <img src="https://img.shields.io/badge/TTL-Column_Expiry-F59E0B?style=for-the-badge" alt="TTL" />
+</p>
+
 A NoSQL movie database built with **Apache Cassandra** via **DataStax Astra DB**, developed as part of the SIS314 Advanced Database course at Cairo University.
 
 The project covers keyspace and table creation, data insertion with TTL, binary blob storage for movie posters, Python integration, and CQL querying.
