@@ -35,7 +35,7 @@ Cassandra-Movie-Database/
 ├── README.md
 │
 ├── docs/
-│   └── Cassandra_DB_Report.pdf                       # Full project report with screenshots
+│   └── Cassandra_DB_Report.pdf          # Full project report with screenshots
 │
 ├── posters/
 │   ├── Inception.jpeg                   # Movie poster — stored as blob in Cassandra
